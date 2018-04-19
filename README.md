@@ -1,7 +1,5 @@
 # the-great-race
-
-# The-Great-Race
-## Web Dev 2 Mid-Term Project
+## CIS Intro to Web Dev Final Project
 
 Assignment Details:
 
